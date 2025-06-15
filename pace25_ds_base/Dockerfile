@@ -8,6 +8,7 @@ RUN apt-get update && apt-get install -y \
     g++ build-essential pkg-config cmake clang-14 git\
     libcliquer1 gfortran liblapack3 libopenblas-dev libgsl-dev libtbb12 libfmt-dev \
     curl ca-certificates libssl-dev libgfortran5 libgmp-dev \
+    libargtable2-dev libomp-dev \ 
     && rm -rf /var/lib/apt/lists/*
 
 # Install Rust

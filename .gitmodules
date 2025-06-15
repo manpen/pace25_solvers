@@ -27,3 +27,6 @@
 [submodule "submissions/alpaca/code"]
 	path = submissions/alpaca/code
 	url = https://github.com/roehrt/alpaca.git
+[submodule "submissions/kulezi/code"]
+	path = submissions/kulezi/code
+	url = https://github.com/Kulezi/pace2025.git
