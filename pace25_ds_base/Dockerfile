@@ -1,0 +1,17 @@
+FROM ubuntu:22.04
+
+ENV DEBIAN_FRONTEND=noninteractive
+
+# Basic Setup (tools required by atleast one solver)
+RUN apt-get update && apt-get install -y \
+    build-essential python3 python3-pip time util-linux unzip \
+    g++ build-essential pkg-config cmake clang-14 git\
+    curl ca-certificates libssl-dev libgfortran5 \
+    && rm -rf /var/lib/apt/lists/*
+
+# Install Rust
+RUN curl https://sh.rustup.rs -sSf | sh -s -- -y --default-toolchain nightly --profile minimal
+
+COPY runner /code
+COPY inner_build.sh /code/
+RUN /bin/bash /code/inner_build.sh
