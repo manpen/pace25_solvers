@@ -5,7 +5,7 @@ set -x
 echo "WARNING: Fetching submodule will take some time!!!"
 git submodule update --init --recursive
 
-pace25_ds_base/build.sh
+pace25_ds_base/build_image.sh
 
 submissions/pace_yourself/build_image.sh
 submissions/uzl/build_image.sh
