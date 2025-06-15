@@ -4,7 +4,10 @@
 	branch = submission
 [submodule "pace25_ds_base/runner"]
 	path = pace25_ds_base/runner
-	url = git@github.com:manpen/stride_runner_domset.git
+	url = https://github.com/manpen/stride_runner_domset.git
 [submodule "submissions/uzl/code"]
 	path = submissions/uzl/code
 	url = https://github.com/mwien/PACE2025.git
+[submodule "submissions/heidelberg/code"]
+	path = submissions/heidelberg/code
+	url = https://github.com/KennethLangedal/PACE2025.git
