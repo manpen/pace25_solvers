@@ -5,3 +5,6 @@
 [submodule "pace25_ds_base/runner"]
 	path = pace25_ds_base/runner
 	url = git@github.com:manpen/stride_runner_domset.git
+[submodule "submissions/uzl/code"]
+	path = submissions/uzl/code
+	url = https://github.com/mwien/PACE2025.git
