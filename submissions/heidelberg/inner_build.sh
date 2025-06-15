@@ -15,5 +15,4 @@ make -j
 
 mv EXACT /exact
 
-cd /
-/runner run -b /exact -T 10 -G 5 -w "nodes<10"
+cd / && /runner run -b /exact -T 10 -G 5 -w "nodes<10"

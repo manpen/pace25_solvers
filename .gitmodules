@@ -14,3 +14,7 @@
 [submodule "submissions/bad/code"]
 	path = submissions/bad/code
 	url = https://github.com/Doblalex/pace2025.git
+[submodule "submissions/fu_berlin/code"]
+	path = submissions/fu_berlin/code
+	url = https://git.imp.fu-berlin.de/rh0457fu/anwendung-von-algorithmen.git
+	branch = DS_Exact
