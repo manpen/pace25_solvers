@@ -24,3 +24,6 @@
 [submodule "submissions/spefk/code"]
 	path = submissions/spefk/code
 	url = https://github.com/spefk/pace2025-ds-solver.git
+[submodule "submissions/alpaca/code"]
+	path = submissions/alpaca/code
+	url = https://github.com/roehrt/alpaca.git

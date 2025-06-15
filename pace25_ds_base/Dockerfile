@@ -6,6 +6,7 @@ ENV DEBIAN_FRONTEND=noninteractive
 RUN apt-get update && apt-get install -y \
     build-essential python3 python3-pip time util-linux unzip \
     g++ build-essential pkg-config cmake clang-14 git\
+    libcliquer1 gfortran liblapack3 libopenblas-dev libgsl-dev libtbb12 libfmt-dev \
     curl ca-certificates libssl-dev libgfortran5 libgmp-dev \
     && rm -rf /var/lib/apt/lists/*
 
