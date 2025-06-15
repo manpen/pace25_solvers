@@ -11,3 +11,6 @@
 [submodule "submissions/heidelberg/code"]
 	path = submissions/heidelberg/code
 	url = https://github.com/KennethLangedal/PACE2025.git
+[submodule "submissions/bad/code"]
+	path = submissions/bad/code
+	url = https://github.com/Doblalex/pace2025.git
