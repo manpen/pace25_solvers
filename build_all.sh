@@ -11,3 +11,4 @@ submissions/uzl/build_image.sh
 submissions/heidelberg/build_image.sh
 submissions/bad/build_image.sh
 submissions/fu_berlin/build_image.sh
+submissions/shadoks/build_image.sh
