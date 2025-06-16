@@ -65,3 +65,6 @@
 [submodule "submissions/xinyepeng/code"]
 	path = submissions/xinyepeng/code
 	url = https://github.com/xinyepeng521/DominatingSat_Pace2025_Heuristic.git
+[submodule "submissions/mennemann/code"]
+	path = submissions/mennemann/code
+	url = https://github.com/mennemann/MDS.git
