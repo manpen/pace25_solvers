@@ -19,4 +19,9 @@ submissions/swats/build_image.sh &
 submissions/vdhout/build_image.sh &
 submissions/oblx/build_image.sh &
 
+# heuristics
+submissions/fu2025_pace1/build_image.sh &
+submissions/fu2025_pace2/build_image.sh &
+
+
 wait

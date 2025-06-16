@@ -39,3 +39,11 @@
 [submodule "submissions/oblx/code"]
 	path = submissions/oblx/code
 	url = https://gitlab.limos.fr/oblx/public.git
+[submodule "submissions/fu2025_pace2/code"]
+	path = submissions/fu2025_pace2/code
+	url = https://git.imp.fu-berlin.de/rh0457fu/anwendung-von-algorithmen.git
+	branch = DS_Heuristic_2
+[submodule "submissions/fu2025_pace1/code"]
+	path = submissions/fu2025_pace1/code
+	url = https://git.imp.fu-berlin.de/rh0457fu/anwendung-von-algorithmen.git
+	branch = DS_Heuristic_1
