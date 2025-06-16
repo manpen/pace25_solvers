@@ -50,3 +50,9 @@
 [submodule "submissions/fontan/code"]
 	path = submissions/fontan/code
 	url = git@github.com:fontanf/pace2025.git
+[submodule "submissions/samu_f/code"]
+	path = submissions/samu_f/code
+	url = https://github.com/Samsu-F/PACE-2025-heuristic-dominating-set-solver.git
+[submodule "submissions/lxily/code"]
+	path = submissions/lxily/code
+	url = https://github.com/lxily/PACE2025.DS-HS.git
