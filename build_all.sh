@@ -7,29 +7,7 @@ git submodule update --init --recursive
 
 pace25_ds_base/build_image.sh
 
-submissions/pace_yourself/build_image.sh &
-submissions/uzl/build_image.sh &
-submissions/heidelberg/build_image.sh &
-submissions/bad/build_image.sh &
-submissions/fu_berlin/build_image.sh &
-submissions/shadoks/build_image.sh &
-submissions/spefk/build_image.sh &
-submissions/alpaca/build_image.sh &
-submissions/swats/build_image.sh &
-submissions/vdhout/build_image.sh &
-submissions/oblx/build_image.sh &
 
-# heuristics
-submissions/fu2025_pace1/build_image.sh &
-submissions/fu2025_pace2/build_image.sh &
-submissions/fontan/build_image.sh &
-submissions/lxily/build_image.sh &
-submissions/g2liuzhaojie/build_image.sh &
-submissions/b2corner/build_image.sh &
-submissions/xinyepeng/build_image.sh &
-submissions/mennemann/build_image.sh &
-submissions/greeduce/build_image.sh &
+ls -1 submissions/*/build_image.sh | \
+    parallel {}
 
-
-
-wait
