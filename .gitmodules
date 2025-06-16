@@ -47,3 +47,6 @@
 	path = submissions/fu2025_pace1/code
 	url = https://git.imp.fu-berlin.de/rh0457fu/anwendung-von-algorithmen.git
 	branch = DS_Heuristic_1
+[submodule "submissions/fontan/code"]
+	path = submissions/fontan/code
+	url = git@github.com:fontanf/pace2025.git
