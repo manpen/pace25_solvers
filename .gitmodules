@@ -68,3 +68,6 @@
 [submodule "submissions/mennemann/code"]
 	path = submissions/mennemann/code
 	url = https://github.com/mennemann/MDS.git
+[submodule "submissions/greeduce/code"]
+	path = submissions/greeduce/code
+	url = https://github.com/adampolak/greeduce.git

@@ -28,6 +28,7 @@ submissions/g2liuzhaojie/build_image.sh &
 submissions/b2corner/build_image.sh &
 submissions/xinyepeng/build_image.sh &
 submissions/mennemann/build_image.sh &
+submissions/greeduce/build_image.sh &
 
 
 
