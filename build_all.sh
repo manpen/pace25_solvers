@@ -15,3 +15,4 @@ submissions/fu_berlin/build_image.sh
 submissions/shadoks/build_image.sh
 submissions/spefk/build_image.sh
 submissions/alpaca/build_image.sh
+submissions/swats/build_image.sh

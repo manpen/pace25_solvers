@@ -30,3 +30,6 @@
 [submodule "submissions/kulezi/code"]
 	path = submissions/kulezi/code
 	url = https://github.com/Kulezi/pace2025.git
+[submodule "submissions/swats/code"]
+	path = submissions/swats/code
+	url = https://github.com/swacisko/pace-2025.git
