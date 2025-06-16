@@ -33,3 +33,9 @@
 [submodule "submissions/swats/code"]
 	path = submissions/swats/code
 	url = https://github.com/swacisko/pace-2025.git
+[submodule "submissions/vdhout/code"]
+	path = submissions/vdhout/code
+	url = https://github.com/gamingwithaflo/minimum-dominating-set.git
+[submodule "submissions/oblx/code"]
+	path = submissions/oblx/code
+	url = https://gitlab.limos.fr/oblx/public.git
