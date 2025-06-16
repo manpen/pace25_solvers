@@ -24,6 +24,8 @@ submissions/fu2025_pace1/build_image.sh &
 submissions/fu2025_pace2/build_image.sh &
 submissions/fontan/build_image.sh &
 submissions/lxily/build_image.sh &
+submissions/g2liuzhaojie/build_image.sh &
+submissions/b2corner/build_image.sh &
 
 
 wait

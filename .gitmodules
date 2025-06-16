@@ -56,3 +56,9 @@
 [submodule "submissions/lxily/code"]
 	path = submissions/lxily/code
 	url = https://github.com/lxily/PACE2025.DS-HS.git
+[submodule "submissions/g2liuzhaojie/code"]
+	path = submissions/g2liuzhaojie/code
+	url = https://github.com/G2LiuZhaoJie/pace2025-DS.git
+[submodule "submissions/b2corner/code"]
+	path = submissions/b2corner/code
+	url = https://github.com/B2Corner/PACE_2025.git
