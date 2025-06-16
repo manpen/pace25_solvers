@@ -62,3 +62,6 @@
 [submodule "submissions/b2corner/code"]
 	path = submissions/b2corner/code
 	url = https://github.com/B2Corner/PACE_2025.git
+[submodule "submissions/xinyepeng/code"]
+	path = submissions/xinyepeng/code
+	url = https://github.com/xinyepeng521/DominatingSat_Pace2025_Heuristic.git
