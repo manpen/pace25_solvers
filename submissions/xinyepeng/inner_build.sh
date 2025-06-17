@@ -2,7 +2,7 @@
 set -e
 set -x
 
-echo "#include <climits>" > tmp.cpp
+echo '#include <climits>' > tmp.cpp
 cat MDS.cpp >> tmp.cpp
 
 g++ -std=c++17 -O3 tmp.cpp -o /heuristic
