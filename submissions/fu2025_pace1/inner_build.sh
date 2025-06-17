@@ -2,7 +2,7 @@
 set -e
 set -x
 
-gcc -O3 -o /heuristic malatya.c
+gcc -O3 -o /heuristic greedy.c
 cd /
 
 rm -rf code
