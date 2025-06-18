@@ -13,18 +13,5 @@ perl -pi -e 's/git\@github.com:/https:\/\/github.com\//' *.sh
 ./get_dep.sh
 make -j
 
-#mv EXACT /exact
-#mv HEURISTIC /heuristic
-
-echo '#!/bin/sh' > /exact
-echo 'cd /code' >> /exact
-echo '/code/EXACT' >> /exact
-
-echo '#!/bin/sh' > /heuristic
-echo 'cd /code' >> /exact
-echo '/code/HEURISTIC' >> /heuristic
-
-chmod +x /exact /heuristic
-
 cd /
-/runner run -b /exact -T 10 -G 5 -w "nodes<10"
+/runner run -b /code/EXACT -T 10 -G 5 -w "nodes<10"

@@ -22,4 +22,4 @@ test_solver 34b44b5c-4bb9-11f0-9045-1347e3725109 /heuristic mennemann
 test_solver 34b44b5c-4bb9-11f0-9045-1347e3725109 /heuristic greeduce
 test_solver 34b44b5c-4bb9-11f0-9045-1347e3725109 /heuristic swats
 test_solver 34b44b5c-4bb9-11f0-9045-1347e3725109 /heuristic samu_f
-test_solver 34b44b5c-4bb9-11f0-9045-1347e3725109 /heuristic heidelberg
+test_solver 34b44b5c-4bb9-11f0-9045-1347e3725109 /code/HEURISTIC heidelberg

@@ -8,7 +8,7 @@ test_solver() {
     /runner run -S $UUID -b $BIN -T 10 -G 2 -w "nodes < 200"
 }
 
-test_solver 1aa9fb30-4ad8-11f0-9468-23d032229830 /heuristic heidelberg
+test_solver 1aa9fb30-4ad8-11f0-9468-23d032229830 /code/HEURISTIC heidelberg
 test_solver 1aa9fb30-4ad8-11f0-9468-23d032229831 /heuristic fu2025_pace1
 test_solver 1aa9fb30-4ad8-11f0-9468-23d032229832 /heuristic fu2025_pace2
 test_solver 1aa9fb30-4ad8-11f0-9468-23d032229833 /heuristic shadoks
